@@ -5,12 +5,12 @@
 }
 
 .container {
-    height: 100vh;
+    height: 140vh;
     text-align: center;
 }
 
 .image-container {
-    height: 50%;
+    height: 60%;
     margin: 5rem auto;
     width: 75%;
 }
